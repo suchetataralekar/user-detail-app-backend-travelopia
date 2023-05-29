@@ -1,6 +1,6 @@
 package com.travel.travelapp.model;
 
-import com.travel.travelapp.Type.Location;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
